@@ -1,5 +1,4 @@
 robbyrussell/oh-my-zsh
 zdharma/fast-syntax-highlighting
-changyuheng/zsh-interactive-cd
 tysonwolker/iterm-tab-colors
-qoomon/zsh-lazyload
+b4b4r07/enhancd
